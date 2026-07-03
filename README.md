@@ -1,5 +1,5 @@
 
-<table>
+<table border=0px>
 
 <tr>
   <td>
