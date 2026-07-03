@@ -1,4 +1,4 @@
-<div style="display:flex; gap:24px; align-items:flex-start;">
+<div style="display:flex; flex-wrap:nowrap; gap:24px; align-items:flex-start;">
 
   <div style="flex:0 0 45%;">
     <pre><code>
@@ -10,14 +10,18 @@
         \/   /_____/
     </code></pre>
   </div>
+
+  <div style="flex:0 0 50%;">
           ❌ consistent
           ❌ professional
           ❌ talented/skilled
           ❌ unique
-  <div style="flex:1;">
   </div>
 
 </div>
+
+
+
 
 
 <!--
