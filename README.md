@@ -1,24 +1,16 @@
-<div style="display:flex; flex-wrap:nowrap; gap:24px; align-items:flex-start;">
+<pre><code>
+.__    .___.__      __           ❌ consistent 
+|__| __| _/|__|   _/  |_         ❌ professional
+|  |/ __ | |  |   \   __\        ❌ talented/skilled
+|  / /_/ | |  |    |  |          ❌ unique
+|__\____ | |__|____|__|          ❌ good at engineering
+        \/   /_____/             - sometimes the best solution is the simplest
+</code></pre>
 
-  <div style="flex:0 0 45%;">
-    <pre><code>
-.__    .___.__      __   
-|__| __| _/|__|   _/  |_ 
-|  |/ __ | |  |   \   __\
-|  / /_/ | |  |    |  |
-|__\____ | |__|____|__|
-        \/   /_____/
-    </code></pre>
-  </div>
 
-  <div style="flex:0 0 50%;">
-          ❌ consistent
-          ❌ professional
-          ❌ talented/skilled
-          ❌ unique
-  </div>
 
-</div>
+
+
 
 
 
