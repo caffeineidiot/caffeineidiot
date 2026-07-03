@@ -1,5 +1,5 @@
-# <YOUR_NAME>
 
+<!-- full disclosure this is ai lmao -->
 <!-- Two-column layout (ASCII art left, bio right). On GitHub, this renders side-by-side in most cases. -->
 
 <table>
