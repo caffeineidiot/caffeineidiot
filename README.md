@@ -1,5 +1,6 @@
-<div>
-  <div style="display:inline-block; vertical-align:top; width:45%;">
+<div style="display:flex; gap:24px; align-items:flex-start;">
+
+  <div style="flex:0 0 45%;">
     <pre><code>
 .__    .___.__      __   
 |__| __| _/|__|   _/  |_ 
@@ -8,14 +9,16 @@
 |__\____ | |__|____|__|
         \/   /_____/
     </code></pre>
-  </div><div style="display:inline-block; vertical-align:top; width:50%;">
-    
+  </div>
           ❌ consistent
           ❌ professional
           ❌ talented/skilled
           ❌ unique
+  <div style="flex:1;">
   </div>
+
 </div>
+
 
 <!--
 **caffeineidiot/caffeineidiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
