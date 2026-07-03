@@ -1,19 +1,22 @@
-
-<div><div style="display:inline-block; vertical-align:top; width:45%;">
-<pre><code>
+<div>
+  <div style="display:inline-block; vertical-align:top; width:45%;">
+    <pre><code>
 .__    .___.__      __   
 |__| __| _/|__|   _/  |_ 
 |  |/ __ | |  |   \   __\
 |  / /_/ | |  |    |  |
 |__\____ | |__|____|__|
         \/   /_____/
-</code></pre>
-</div><div style="display:inline-block; vertical-align:top; width:50%;">
-  ❌ consistent
-  ❌ professional
-  ❌ talented/skilled
-  ❌ unique
-  </div></div>
+    </code></pre>
+  </div><div style="display:inline-block; vertical-align:top; width:50%;">
+    
+          ❌ consistent
+          ❌ professional
+          ❌ talented/skilled
+          ❌ unique
+  </div>
+</div>
+
 <!--
 **caffeineidiot/caffeineidiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
