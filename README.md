@@ -4,29 +4,11 @@
 |  |/ __ | |  |   \   __\        ❌ talented/skilled
 |  / /_/ | |  |    |  |          ❌ unique
 |__\____ | |__|____|__|          ❌ good at engineering
-        \/   /_____/             - sometimes the best solution is the simplest
+        \/   /_____/             ➡️ sometimes the best solution is the simplest
 </code></pre>
 
-
-
-
-
-
-
-
-
-
 <!--
-**caffeineidiot/caffeineidiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+snooping huh 👀 no but for real i used ai like 20 times to try and write this for me and doing it 
+in this dumb simple way took me like 2 seconds and looks way better than all of the other iteration.
+> sometimes the best solution is the simplest
 -->
